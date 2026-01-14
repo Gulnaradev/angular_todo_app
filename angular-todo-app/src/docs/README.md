@@ -85,7 +85,6 @@ npx playwright show-report
 ├── docs/
 │   ├── TEST_PLAN.md
 │   ├── TEST_CASES.md
-│   ├── TEST_CASES_GHERKIN.md
 │   ├── BUG_REPORTS.md
 │   └── QA_STRATEGY.md
 │
